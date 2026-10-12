@@ -218,9 +218,11 @@ command with its output, a commit, or a screenshot. A tick with no evidence coun
 - [ ] No leftover files, commented-out code or unused code in the pull request.
   **Evidence:**
 - [ ] The pull request goes into my own fork, not the real CVAT repository.
-  **Evidence:**
+  **Evidence:** the pull request in my fork is <https://github.com/row-huh/cvat/pull/1>.
+  I first opened it against the real CVAT repository by mistake and closed it about a minute
+  later: <https://github.com/cvat-ai/cvat/pull/11294>.
 - [ ] Recording is 5 minutes or less and answers all four questions.
-  **Evidence:**
+  **Evidence:** <https://www.loom.com/share/60560e61e6c944e28c32eea9209fa367>
 
 ## Not finished
 
